@@ -174,7 +174,7 @@ scw config set [arg=value ...]
 
 Update the default organization ID
 ```
-scw config set default_organization_id=12903058-d0e8-4366-89c3-6e666abe1f6f
+scw config set default-organization-id=12903058-d0e8-4366-89c3-6e666abe1f6f
 ```
 
 Update the default region of the profile 'prod'
